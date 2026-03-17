@@ -77,4 +77,7 @@
 
 ## 📈 Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikas1715&theme=tokyo-night)
-![snake](https://github.com/Vikas1715/Vikas1715/blob/output/github-contribution-grid-snake.svg)
+
+
+## 🐍 Contribution Snake
+![snake](https://github.com/Vikas1715/Vikas1715/blob/output/github-contribution-grid-snake-dark.svg)
