@@ -78,5 +78,8 @@
 ## 📈 Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikas1715&theme=tokyo-night)
 
-## 🐍 Contribution Snake
-![snake](https://github.com/Vikas1715/Vikas1715/blob/output/github-contribution-grid-snake-dark.svg)
+### The Grind
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sudhss/Sudhss/output/snake.svg" alt="Snake animation" />
+</div>
