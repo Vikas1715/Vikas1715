@@ -74,3 +74,6 @@
 ---
 
 <p align="center">⚡ "Build Scalable Systems, Not Just Code" ⚡</p>
+
+## 📈 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikas1715&theme=tokyo-night)
