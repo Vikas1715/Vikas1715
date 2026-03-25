@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 BTech CSE (AIML) @ NIET (CGPA: 9.60)  
+- 🎓 BTech CSE (AIML) @ NIET (CGPA: 9.51)  
 - 💻 Backend Developer (Java + Spring Boot)  
 - 🧠 Strong in DSA (1250+ problems solved)  
 - 🚀 Interested in AI + Scalable Systems  
