@@ -64,7 +64,7 @@
 
 ## 🏆 Achievements
 
-- 🔥 LeetCode Rating: 1700+  
+- 🔥 LeetCode Rating: 1800+  
 - 💯 1250+ DSA Problems Solved  
 - 🏅 HackerRank Problem Solving Certified  
 - 🚀 SIH Team Lead  
