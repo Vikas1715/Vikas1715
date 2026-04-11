@@ -82,14 +82,4 @@
   </a>
 </p>
 
----
-
-## 🐍 The Grind
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vikas1715/Vikas1715/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <p align="center">⚡ Build Scalable Systems, Not Just Code ⚡</p>
